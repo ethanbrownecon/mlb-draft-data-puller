@@ -1,0 +1,11 @@
+# Local data and exploratory files
+*.csv
+*.xlsx
+/data/
+/Pull.ipynb
+
+# Python and local environment files
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
